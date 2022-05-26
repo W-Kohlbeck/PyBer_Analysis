@@ -17,7 +17,7 @@ Reviewing the dataframe below demonstrates a couple things. One is that although
 
 ### Deliverable 2: A multiple-line chart of total fares for each city type
 
-This graph represents the total fares week by week for the different city types. The three groups run farily consistent with one another over the four months in question. As seen below the urban city type consistently has the higher total fares month over month. While the rural city type has the lowest total fares.
+This graph represents the total fares week by week for the different city types. The three groups run fairly consistent with one another over the four months in question. As seen below the urban city type consistently has the higher total fares month over month. While the rural city type has the lowest total fares.
 
 <p align="center">
 <img width="1178" alt="PyBer_fare_summary" src="https://user-images.githubusercontent.com/102195085/170586443-4e5de362-550d-4b6e-a559-0768cafbb87d.png">
